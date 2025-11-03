@@ -1,0 +1,2 @@
+# 这是一个Harmony发包示例
+# 内含common模块和features模块的多模块鸿蒙项目
